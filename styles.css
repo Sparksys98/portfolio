@@ -1,0 +1,16 @@
+h4  {
+    color: #009;
+    font-size: 1em;
+    margin-bottom: .3em;
+    text-align: left;
+    text-decoration: underline;
+  }
+span {
+    color: #FFCC00
+}
+#my-name {
+  color: #00FFEE
+}
+body {
+  background-image: url("gif.gif")
+}
